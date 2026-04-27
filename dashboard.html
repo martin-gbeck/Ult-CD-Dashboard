@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Ultimate Cooldown Dashboard</title>
+    <link rel="stylesheet" href="dashboard.css" />
+  </head>
+  <body>
+    <main class="app-shell">
+      <section class="control-panel" aria-label="Controls">
+        <div class="title-block">
+          <h1>Ultimate Cooldowns</h1>
+          <div class="summary-pill"><span id="selectedCount">0</span> selected</div>
+        </div>
+
+        <div class="controls-grid">
+          <label class="field">
+            <span>Ability haste</span>
+            <input id="hasteInput" type="number" min="0" step="1" value="0" />
+          </label>
+
+          <fieldset class="rank-control">
+            <legend>Rank</legend>
+            <div class="segments" role="radiogroup" aria-label="Ultimate rank">
+              <button class="segment is-active" type="button" data-rank="1">1</button>
+              <button class="segment" type="button" data-rank="2">2</button>
+              <button class="segment" type="button" data-rank="3">3</button>
+              <button class="segment" type="button" data-rank="all">All</button>
+            </div>
+          </fieldset>
+
+          <label class="field search-field">
+            <span>Champion</span>
+            <input id="searchInput" type="search" autocomplete="off" placeholder="Search" />
+          </label>
+
+          <div class="actions">
+            <button id="selectAllButton" class="text-button" type="button">Select Visible</button>
+            <button id="clearButton" class="text-button" type="button">Clear</button>
+          </div>
+        </div>
+      </section>
+
+      <section class="workspace">
+        <aside class="champion-panel" aria-label="Champions">
+          <div id="championList" class="champion-list"></div>
+        </aside>
+
+        <section class="results-panel" aria-label="Cooldown results">
+          <div id="emptyState" class="empty-state">
+            <h2>No champions selected</h2>
+          </div>
+          <div id="resultsGrid" class="results-grid"></div>
+        </section>
+      </section>
+    </main>
+
+    <script src="dashboard.js"></script>
+  </body>
+</html>

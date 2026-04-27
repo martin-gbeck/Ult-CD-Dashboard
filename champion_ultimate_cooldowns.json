@@ -1,0 +1,1723 @@
+{
+  "Aatrox": {
+    "name": "Aatrox",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Aatrox",
+    "ultimate_identified": true,
+    "ultimate": "World Ender",
+    "ultimate_cooldown": "120 / 100 / 80",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Aatrox_OriginalSquare.png/42px-Aatrox_OriginalSquare.png?c0f58",
+    "img_path": "champion_icons/aatrox.png"
+  },
+  "Ahri": {
+    "name": "Ahri",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Ahri",
+    "ultimate_identified": true,
+    "ultimate": "Spirit Rush",
+    "ultimate_cooldown": "140 / 120 / 100",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Ahri_OriginalSquare.png/42px-Ahri_OriginalSquare.png?d60a2",
+    "img_path": "champion_icons/ahri.png"
+  },
+  "Akali": {
+    "name": "Akali",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Akali",
+    "ultimate_identified": true,
+    "ultimate": "Perfect Execution",
+    "ultimate_cooldown": "120 / 90 / 60",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Akali_OriginalSquare.png/42px-Akali_OriginalSquare.png?55774",
+    "img_path": "champion_icons/akali.png"
+  },
+  "Akshan": {
+    "name": "Akshan",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Akshan",
+    "ultimate_identified": true,
+    "ultimate": "Comeuppance",
+    "ultimate_cooldown": "100 / 85 / 70",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Akshan_OriginalSquare.png/42px-Akshan_OriginalSquare.png?f8657",
+    "img_path": "champion_icons/akshan.png"
+  },
+  "Alistar": {
+    "name": "Alistar",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Alistar",
+    "ultimate_identified": true,
+    "ultimate": "Unbreakable Will",
+    "ultimate_cooldown": "120 / 100 / 80",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Alistar_OriginalSquare.png/42px-Alistar_OriginalSquare.png?12536",
+    "img_path": "champion_icons/alistar.png"
+  },
+  "Ambessa": {
+    "name": "Ambessa",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Ambessa",
+    "ultimate_identified": true,
+    "ultimate": "Public Execution",
+    "ultimate_cooldown": "130 / 115 / 100",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Ambessa_OriginalSquare.png/42px-Ambessa_OriginalSquare.png?6798d",
+    "img_path": "champion_icons/ambessa.png"
+  },
+  "Amumu": {
+    "name": "Amumu",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Amumu",
+    "ultimate_identified": true,
+    "ultimate": "Curse of the Sad Mummy",
+    "ultimate_cooldown": "150 / 125 / 100",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Amumu_OriginalSquare.png/42px-Amumu_OriginalSquare.png?3fa85",
+    "img_path": "champion_icons/amumu.png"
+  },
+  "Anivia": {
+    "name": "Anivia",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Anivia",
+    "ultimate_identified": true,
+    "ultimate": "Glacial Storm",
+    "ultimate_cooldown": "4 / 3 / 2",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Anivia_OriginalSquare.png/42px-Anivia_OriginalSquare.png?dda87",
+    "img_path": "champion_icons/anivia.png"
+  },
+  "Annie": {
+    "name": "Annie",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Annie",
+    "ultimate_identified": true,
+    "ultimate": "Summon: Tibbers",
+    "ultimate_cooldown": "130 / 115 / 100",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Annie_OriginalSquare.png/42px-Annie_OriginalSquare.png?5e95f",
+    "img_path": "champion_icons/annie.png"
+  },
+  "Aphelios": {
+    "name": "Aphelios",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Aphelios",
+    "ultimate_identified": true,
+    "ultimate": "Moonlight Vigil",
+    "ultimate_cooldown": "120 / 110 / 100 (based on level)",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Aphelios_OriginalSquare.png/42px-Aphelios_OriginalSquare.png?4ae88",
+    "img_path": "champion_icons/aphelios.png"
+  },
+  "Ashe": {
+    "name": "Ashe",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Ashe",
+    "ultimate_identified": true,
+    "ultimate": "Enchanted Crystal Arrow",
+    "ultimate_cooldown": "100 / 80 / 60",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Ashe_OriginalSquare.png/42px-Ashe_OriginalSquare.png?55e1d",
+    "img_path": "champion_icons/ashe.png"
+  },
+  "Aurelion Sol": {
+    "name": "Aurelion Sol",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Aurelion_Sol",
+    "ultimate_identified": true,
+    "ultimate": "Falling Star",
+    "ultimate_cooldown": "120 / 110 / 100",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Aurelion_Sol_OriginalSquare.png/42px-Aurelion_Sol_OriginalSquare.png?98383",
+    "img_path": "champion_icons/aurelion_sol.png"
+  },
+  "Aurora": {
+    "name": "Aurora",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Aurora",
+    "ultimate_identified": true,
+    "ultimate": "Between Worlds",
+    "ultimate_cooldown": "140 / 120 / 100",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Aurora_OriginalSquare.png/42px-Aurora_OriginalSquare.png?5dac9",
+    "img_path": "champion_icons/aurora.png"
+  },
+  "Azir": {
+    "name": "Azir",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Azir",
+    "ultimate_identified": true,
+    "ultimate": "Emperor's Divide",
+    "ultimate_cooldown": "120 / 105 / 90",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Azir_OriginalSquare.png/42px-Azir_OriginalSquare.png?95417",
+    "img_path": "champion_icons/azir.png"
+  },
+  "Bard": {
+    "name": "Bard",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Bard",
+    "ultimate_identified": true,
+    "ultimate": "Tempered Fate",
+    "ultimate_cooldown": "110 / 95 / 80",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Bard_OriginalSquare.png/42px-Bard_OriginalSquare.png?d0233",
+    "img_path": "champion_icons/bard.png"
+  },
+  "Bel'Veth": {
+    "name": "Bel'Veth",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Bel%27Veth",
+    "ultimate_identified": true,
+    "ultimate": "Endless Banquet",
+    "ultimate_cooldown": "1",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Bel%27Veth_OriginalSquare.png/42px-Bel%27Veth_OriginalSquare.png?88288",
+    "img_path": "champion_icons/bel_veth.png"
+  },
+  "Blitzcrank": {
+    "name": "Blitzcrank",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Blitzcrank",
+    "ultimate_identified": true,
+    "ultimate": "Static Field",
+    "ultimate_cooldown": "60 / 40 / 20",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Blitzcrank_OriginalSquare.png/42px-Blitzcrank_OriginalSquare.png?af7dd",
+    "img_path": "champion_icons/blitzcrank.png"
+  },
+  "Brand": {
+    "name": "Brand",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Brand",
+    "ultimate_identified": true,
+    "ultimate": "Pyroclasm",
+    "ultimate_cooldown": "100 / 90 / 80",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Brand_OriginalSquare.png/42px-Brand_OriginalSquare.png?336d6",
+    "img_path": "champion_icons/brand.png"
+  },
+  "Braum": {
+    "name": "Braum",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Braum",
+    "ultimate_identified": true,
+    "ultimate": "Glacial Fissure",
+    "ultimate_cooldown": "130 / 115 / 100",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Braum_OriginalSquare.png/42px-Braum_OriginalSquare.png?96d05",
+    "img_path": "champion_icons/braum.png"
+  },
+  "Briar": {
+    "name": "Briar",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Briar",
+    "ultimate_identified": true,
+    "ultimate": "Certain Death",
+    "ultimate_cooldown": "120 / 100 / 80",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Briar_OriginalSquare.png/42px-Briar_OriginalSquare.png?37f17",
+    "img_path": "champion_icons/briar.png"
+  },
+  "Caitlyn": {
+    "name": "Caitlyn",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Caitlyn",
+    "ultimate_identified": true,
+    "ultimate": "Ace in the Hole",
+    "ultimate_cooldown": "90",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Caitlyn_OriginalSquare.png/42px-Caitlyn_OriginalSquare.png?818cf",
+    "img_path": "champion_icons/caitlyn.png"
+  },
+  "Camille": {
+    "name": "Camille",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Camille",
+    "ultimate_identified": true,
+    "ultimate": "The Hextech Ultimatum",
+    "ultimate_cooldown": "140 / 115 / 90",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Camille_OriginalSquare.png/42px-Camille_OriginalSquare.png?aba4a",
+    "img_path": "champion_icons/camille.png"
+  },
+  "Cassiopeia": {
+    "name": "Cassiopeia",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Cassiopeia",
+    "ultimate_identified": true,
+    "ultimate": "Petrifying Gaze",
+    "ultimate_cooldown": "120 / 100 / 80",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Cassiopeia_OriginalSquare.png/42px-Cassiopeia_OriginalSquare.png?56ef7",
+    "img_path": "champion_icons/cassiopeia.png"
+  },
+  "Cho'Gath": {
+    "name": "Cho'Gath",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Cho%27Gath",
+    "ultimate_identified": true,
+    "ultimate": "Feast",
+    "ultimate_cooldown": "80 / 70 / 60",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Cho%27Gath_OriginalSquare.png/42px-Cho%27Gath_OriginalSquare.png?70f42",
+    "img_path": "champion_icons/cho_gath.png"
+  },
+  "Corki": {
+    "name": "Corki",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Corki",
+    "ultimate_identified": true,
+    "ultimate": "Missile Barrage",
+    "ultimate_cooldown": "2",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Corki_OriginalSquare.png/42px-Corki_OriginalSquare.png?8bc1a",
+    "img_path": "champion_icons/corki.png"
+  },
+  "Darius": {
+    "name": "Darius",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Darius",
+    "ultimate_identified": true,
+    "ultimate": "Noxian Guillotine",
+    "ultimate_cooldown": "120 / 100 / 80",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Darius_OriginalSquare.png/42px-Darius_OriginalSquare.png?aca4c",
+    "img_path": "champion_icons/darius.png"
+  },
+  "Diana": {
+    "name": "Diana",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Diana",
+    "ultimate_identified": true,
+    "ultimate": "Moonfall",
+    "ultimate_cooldown": "100 / 90 / 80",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Diana_OriginalSquare.png/42px-Diana_OriginalSquare.png?d5d54",
+    "img_path": "champion_icons/diana.png"
+  },
+  "Dr. Mundo": {
+    "name": "Dr. Mundo",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Dr._Mundo",
+    "ultimate_identified": true,
+    "ultimate": "Maximum Dosage",
+    "ultimate_cooldown": "120",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Dr._Mundo_OriginalSquare.png/42px-Dr._Mundo_OriginalSquare.png?5756a",
+    "img_path": "champion_icons/dr_mundo.png"
+  },
+  "Draven": {
+    "name": "Draven",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Draven",
+    "ultimate_identified": true,
+    "ultimate": "Whirling Death",
+    "ultimate_cooldown": "100 / 90 / 80",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Draven_OriginalSquare.png/42px-Draven_OriginalSquare.png?63957",
+    "img_path": "champion_icons/draven.png"
+  },
+  "Ekko": {
+    "name": "Ekko",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Ekko",
+    "ultimate_identified": true,
+    "ultimate": "Chronobreak",
+    "ultimate_cooldown": "110 / 80 / 50",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Ekko_OriginalSquare.png/42px-Ekko_OriginalSquare.png?15376",
+    "img_path": "champion_icons/ekko.png"
+  },
+  "Elise": {
+    "name": "Elise",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Elise",
+    "ultimate_identified": true,
+    "ultimate": "Spider Form / Human Form",
+    "ultimate_cooldown": "3",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Elise_OriginalSquare.png/42px-Elise_OriginalSquare.png?b97b0",
+    "img_path": "champion_icons/elise.png"
+  },
+  "Evelynn": {
+    "name": "Evelynn",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Evelynn",
+    "ultimate_identified": true,
+    "ultimate": "Last Caress",
+    "ultimate_cooldown": "120 / 100 / 80",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Evelynn_OriginalSquare.png/42px-Evelynn_OriginalSquare.png?1ed7f",
+    "img_path": "champion_icons/evelynn.png"
+  },
+  "Ezreal": {
+    "name": "Ezreal",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Ezreal",
+    "ultimate_identified": true,
+    "ultimate": "Trueshot Barrage",
+    "ultimate_cooldown": "120 / 105 / 90",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Ezreal_OriginalSquare.png/42px-Ezreal_OriginalSquare.png?fc667",
+    "img_path": "champion_icons/ezreal.png"
+  },
+  "Fiddlesticks": {
+    "name": "Fiddlesticks",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Fiddlesticks",
+    "ultimate_identified": true,
+    "ultimate": "Crowstorm",
+    "ultimate_cooldown": "140 / 110 / 80",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Fiddlesticks_OriginalSquare.png/42px-Fiddlesticks_OriginalSquare.png?1082b",
+    "img_path": "champion_icons/fiddlesticks.png"
+  },
+  "Fiora": {
+    "name": "Fiora",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Fiora",
+    "ultimate_identified": true,
+    "ultimate": "Grand Challenge",
+    "ultimate_cooldown": "110 / 90 / 70",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Fiora_OriginalSquare.png/42px-Fiora_OriginalSquare.png?0b643",
+    "img_path": "champion_icons/fiora.png"
+  },
+  "Fizz": {
+    "name": "Fizz",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Fizz",
+    "ultimate_identified": true,
+    "ultimate": "Chum the Waters",
+    "ultimate_cooldown": "120 / 100 / 80",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Fizz_OriginalSquare.png/42px-Fizz_OriginalSquare.png?44c3d",
+    "img_path": "champion_icons/fizz.png"
+  },
+  "Galio": {
+    "name": "Galio",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Galio",
+    "ultimate_identified": true,
+    "ultimate": "Hero's Entrance",
+    "ultimate_cooldown": "180 / 160 / 140",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Galio_OriginalSquare.png/42px-Galio_OriginalSquare.png?698b3",
+    "img_path": "champion_icons/galio.png"
+  },
+  "Gangplank": {
+    "name": "Gangplank",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Gangplank",
+    "ultimate_identified": true,
+    "ultimate": "Cannon Barrage",
+    "ultimate_cooldown": "160 / 140 / 120",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Gangplank_OriginalSquare.png/42px-Gangplank_OriginalSquare.png?6b5cf",
+    "img_path": "champion_icons/gangplank.png"
+  },
+  "Garen": {
+    "name": "Garen",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Garen",
+    "ultimate_identified": true,
+    "ultimate": "Demacian Justice",
+    "ultimate_cooldown": "120 / 100 / 80",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Garen_OriginalSquare.png/42px-Garen_OriginalSquare.png?37153",
+    "img_path": "champion_icons/garen.png"
+  },
+  "Gnar": {
+    "name": "Gnar",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Gnar",
+    "ultimate_identified": true,
+    "ultimate": "GNAR!",
+    "ultimate_cooldown": "90 / 60 / 30",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Gnar_OriginalSquare.png/42px-Gnar_OriginalSquare.png?11c50",
+    "img_path": "champion_icons/gnar.png"
+  },
+  "Gragas": {
+    "name": "Gragas",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Gragas",
+    "ultimate_identified": true,
+    "ultimate": "Explosive Cask",
+    "ultimate_cooldown": "100 / 85 / 70",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Gragas_OriginalSquare.png/42px-Gragas_OriginalSquare.png?41e2d",
+    "img_path": "champion_icons/gragas.png"
+  },
+  "Graves": {
+    "name": "Graves",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Graves",
+    "ultimate_identified": true,
+    "ultimate": "Collateral Damage",
+    "ultimate_cooldown": "100 / 80 / 60",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Graves_OriginalSquare.png/42px-Graves_OriginalSquare.png?1d234",
+    "img_path": "champion_icons/graves.png"
+  },
+  "Gwen": {
+    "name": "Gwen",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Gwen",
+    "ultimate_identified": true,
+    "ultimate": "Needlework",
+    "ultimate_cooldown": "120 / 100 / 80",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Gwen_OriginalSquare.png/42px-Gwen_OriginalSquare.png?794a1",
+    "img_path": "champion_icons/gwen.png"
+  },
+  "Hecarim": {
+    "name": "Hecarim",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Hecarim",
+    "ultimate_identified": true,
+    "ultimate": "Onslaught of Shadows",
+    "ultimate_cooldown": "140 / 120 / 100",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Hecarim_OriginalSquare.png/42px-Hecarim_OriginalSquare.png?89760",
+    "img_path": "champion_icons/hecarim.png"
+  },
+  "Heimerdinger": {
+    "name": "Heimerdinger",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Heimerdinger",
+    "ultimate_identified": true,
+    "ultimate": "UPGRADE!!!",
+    "ultimate_cooldown": "100 / 85 / 70",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Heimerdinger_OriginalSquare.png/42px-Heimerdinger_OriginalSquare.png?80a6b",
+    "img_path": "champion_icons/heimerdinger.png"
+  },
+  "Hwei": {
+    "name": "Hwei",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Hwei",
+    "ultimate_identified": true,
+    "ultimate": "Spiraling Despair",
+    "ultimate_cooldown": "120 / 100 / 80",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Hwei_OriginalSquare.png/42px-Hwei_OriginalSquare.png?0c03b",
+    "img_path": "champion_icons/hwei.png"
+  },
+  "Illaoi": {
+    "name": "Illaoi",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Illaoi",
+    "ultimate_identified": true,
+    "ultimate": "Leap of Faith",
+    "ultimate_cooldown": "120 / 95 / 70",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Illaoi_OriginalSquare.png/42px-Illaoi_OriginalSquare.png?37418",
+    "img_path": "champion_icons/illaoi.png"
+  },
+  "Irelia": {
+    "name": "Irelia",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Irelia",
+    "ultimate_identified": true,
+    "ultimate": "Vanguard's Edge",
+    "ultimate_cooldown": "125 / 105 / 85",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Irelia_OriginalSquare.png/42px-Irelia_OriginalSquare.png?fad5e",
+    "img_path": "champion_icons/irelia.png"
+  },
+  "Ivern": {
+    "name": "Ivern",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Ivern",
+    "ultimate_identified": true,
+    "ultimate": "Daisy!",
+    "ultimate_cooldown": "140 / 130 / 120",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Ivern_OriginalSquare.png/42px-Ivern_OriginalSquare.png?e28f2",
+    "img_path": "champion_icons/ivern.png"
+  },
+  "Janna": {
+    "name": "Janna",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Janna",
+    "ultimate_identified": true,
+    "ultimate": "Monsoon",
+    "ultimate_cooldown": "130 / 115 / 100",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Janna_OriginalSquare.png/42px-Janna_OriginalSquare.png?ec2a0",
+    "img_path": "champion_icons/janna.png"
+  },
+  "Jarvan IV": {
+    "name": "Jarvan IV",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Jarvan_IV",
+    "ultimate_identified": true,
+    "ultimate": "Cataclysm",
+    "ultimate_cooldown": "120 / 105 / 90",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Jarvan_IV_OriginalSquare.png/42px-Jarvan_IV_OriginalSquare.png?74a73",
+    "img_path": "champion_icons/jarvan_iv.png"
+  },
+  "Jax": {
+    "name": "Jax",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Jax",
+    "ultimate_identified": true,
+    "ultimate": "Grandmaster-at-Arms",
+    "ultimate_cooldown": "110 / 100 / 90",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Jax_OriginalSquare.png/42px-Jax_OriginalSquare.png?6209d",
+    "img_path": "champion_icons/jax.png"
+  },
+  "Jayce": {
+    "name": "Jayce",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Jayce",
+    "ultimate_identified": true,
+    "ultimate": "Transform Mercury Cannon",
+    "ultimate_cooldown": "6",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Jayce_OriginalSquare.png/42px-Jayce_OriginalSquare.png?02706",
+    "img_path": "champion_icons/jayce.png"
+  },
+  "Jhin": {
+    "name": "Jhin",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Jhin",
+    "ultimate_identified": true,
+    "ultimate": "Curtain Call",
+    "ultimate_cooldown": "120 / 105 / 90",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Jhin_OriginalSquare.png/42px-Jhin_OriginalSquare.png?893f1",
+    "img_path": "champion_icons/jhin.png"
+  },
+  "Jinx": {
+    "name": "Jinx",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Jinx",
+    "ultimate_identified": true,
+    "ultimate": "Super Mega Death Rocket!",
+    "ultimate_cooldown": "85 / 65 / 45",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Jinx_OriginalSquare.png/42px-Jinx_OriginalSquare.png?95e74",
+    "img_path": "champion_icons/jinx.png"
+  },
+  "K'Sante": {
+    "name": "K'Sante",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/K%27Sante",
+    "ultimate_identified": true,
+    "ultimate": "All Out",
+    "ultimate_cooldown": "120 / 100 / 80",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/K%27Sante_OriginalSquare.png/42px-K%27Sante_OriginalSquare.png?6c0c1",
+    "img_path": "champion_icons/k_sante.png"
+  },
+  "Kai'Sa": {
+    "name": "Kai'Sa",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Kai%27Sa",
+    "ultimate_identified": true,
+    "ultimate": "Killer Instinct",
+    "ultimate_cooldown": "130 / 100 / 70",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Kai%27Sa_OriginalSquare.png/42px-Kai%27Sa_OriginalSquare.png?3d567",
+    "img_path": "champion_icons/kai_sa.png"
+  },
+  "Kalista": {
+    "name": "Kalista",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Kalista",
+    "ultimate_identified": true,
+    "ultimate": "Fate's Call",
+    "ultimate_cooldown": "160 / 140 / 120",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Kalista_OriginalSquare.png/42px-Kalista_OriginalSquare.png?e5c71",
+    "img_path": "champion_icons/kalista.png"
+  },
+  "Karma": {
+    "name": "Karma",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Karma",
+    "ultimate_identified": true,
+    "ultimate": "Mantra",
+    "ultimate_cooldown": "40 / 38 / 36 / 34",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Karma_OriginalSquare.png/42px-Karma_OriginalSquare.png?46695",
+    "img_path": "champion_icons/karma.png"
+  },
+  "Karthus": {
+    "name": "Karthus",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Karthus",
+    "ultimate_identified": true,
+    "ultimate": "Requiem",
+    "ultimate_cooldown": "200 / 180 / 160",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Karthus_OriginalSquare.png/42px-Karthus_OriginalSquare.png?46df2",
+    "img_path": "champion_icons/karthus.png"
+  },
+  "Kassadin": {
+    "name": "Kassadin",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Kassadin",
+    "ultimate_identified": true,
+    "ultimate": "Riftwalk",
+    "ultimate_cooldown": "5 / 3.5 / 2",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Kassadin_OriginalSquare.png/42px-Kassadin_OriginalSquare.png?d6b88",
+    "img_path": "champion_icons/kassadin.png"
+  },
+  "Katarina": {
+    "name": "Katarina",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Katarina",
+    "ultimate_identified": true,
+    "ultimate": "Death Lotus",
+    "ultimate_cooldown": "75 / 60 / 45",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Katarina_OriginalSquare.png/42px-Katarina_OriginalSquare.png?e11e0",
+    "img_path": "champion_icons/katarina.png"
+  },
+  "Kayle": {
+    "name": "Kayle",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Kayle",
+    "ultimate_identified": true,
+    "ultimate": "Divine Judgment",
+    "ultimate_cooldown": "160 / 120 / 80",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Kayle_OriginalSquare.png/42px-Kayle_OriginalSquare.png?4677c",
+    "img_path": "champion_icons/kayle.png"
+  },
+  "Kayn": {
+    "name": "Kayn",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Kayn",
+    "ultimate_identified": true,
+    "ultimate": "Umbral Trespass",
+    "ultimate_cooldown": "120 / 100 / 80",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Kayn_OriginalSquare.png/42px-Kayn_OriginalSquare.png?37607",
+    "img_path": "champion_icons/kayn.png"
+  },
+  "Kennen": {
+    "name": "Kennen",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Kennen",
+    "ultimate_identified": true,
+    "ultimate": "Slicing Maelstrom",
+    "ultimate_cooldown": "120",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Kennen_OriginalSquare.png/42px-Kennen_OriginalSquare.png?f8fad",
+    "img_path": "champion_icons/kennen.png"
+  },
+  "Kha'Zix": {
+    "name": "Kha'Zix",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Kha%27Zix",
+    "ultimate_identified": true,
+    "ultimate": "Void Assault",
+    "ultimate_cooldown": "100 / 85 / 70",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Kha%27Zix_OriginalSquare.png/42px-Kha%27Zix_OriginalSquare.png?a0597",
+    "img_path": "champion_icons/kha_zix.png"
+  },
+  "Kindred": {
+    "name": "Kindred",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Kindred",
+    "ultimate_identified": true,
+    "ultimate": "Lamb's Respite",
+    "ultimate_cooldown": "160 / 140 / 120",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Kindred_OriginalSquare.png/42px-Kindred_OriginalSquare.png?86d26",
+    "img_path": "champion_icons/kindred.png"
+  },
+  "Kled": {
+    "name": "Kled",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Kled",
+    "ultimate_identified": true,
+    "ultimate": "Chaaaaaaaarge!!!",
+    "ultimate_cooldown": "140 / 125 / 110",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Kled_OriginalSquare.png/42px-Kled_OriginalSquare.png?353e8",
+    "img_path": "champion_icons/kled.png"
+  },
+  "Kog'Maw": {
+    "name": "Kog'Maw",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Kog%27Maw",
+    "ultimate_identified": true,
+    "ultimate": "Living Artillery",
+    "ultimate_cooldown": "2 / 1.5 / 1",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Kog%27Maw_OriginalSquare.png/42px-Kog%27Maw_OriginalSquare.png?1f3d5",
+    "img_path": "champion_icons/kog_maw.png"
+  },
+  "LeBlanc": {
+    "name": "LeBlanc",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/LeBlanc",
+    "ultimate_identified": true,
+    "ultimate": "Mimic",
+    "ultimate_cooldown": "45 / 35 / 25",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/LeBlanc_OriginalSquare.png/42px-LeBlanc_OriginalSquare.png?4031b",
+    "img_path": "champion_icons/leblanc.png"
+  },
+  "Lee Sin": {
+    "name": "Lee Sin",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Lee_Sin",
+    "ultimate_identified": true,
+    "ultimate": "Dragon's Rage",
+    "ultimate_cooldown": "110 / 85 / 60",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Lee_Sin_OriginalSquare.png/42px-Lee_Sin_OriginalSquare.png?f1618",
+    "img_path": "champion_icons/lee_sin.png"
+  },
+  "Leona": {
+    "name": "Leona",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Leona",
+    "ultimate_identified": true,
+    "ultimate": "Solar Flare",
+    "ultimate_cooldown": "90 / 75 / 60",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Leona_OriginalSquare.png/42px-Leona_OriginalSquare.png?9c355",
+    "img_path": "champion_icons/leona.png"
+  },
+  "Lillia": {
+    "name": "Lillia",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Lillia",
+    "ultimate_identified": true,
+    "ultimate": "Lilting Lullaby",
+    "ultimate_cooldown": "150 / 130 / 110",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Lillia_OriginalSquare.png/42px-Lillia_OriginalSquare.png?16dff",
+    "img_path": "champion_icons/lillia.png"
+  },
+  "Lissandra": {
+    "name": "Lissandra",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Lissandra",
+    "ultimate_identified": true,
+    "ultimate": "Frozen Tomb",
+    "ultimate_cooldown": "120 / 100 / 80",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Lissandra_OriginalSquare.png/42px-Lissandra_OriginalSquare.png?fe62c",
+    "img_path": "champion_icons/lissandra.png"
+  },
+  "Lucian": {
+    "name": "Lucian",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Lucian",
+    "ultimate_identified": true,
+    "ultimate": "The Culling",
+    "ultimate_cooldown": "110 / 100 / 90",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Lucian_OriginalSquare.png/42px-Lucian_OriginalSquare.png?514f2",
+    "img_path": "champion_icons/lucian.png"
+  },
+  "Lulu": {
+    "name": "Lulu",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Lulu",
+    "ultimate_identified": true,
+    "ultimate": "Wild Growth",
+    "ultimate_cooldown": "120 / 100 / 80",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Lulu_OriginalSquare.png/42px-Lulu_OriginalSquare.png?18777",
+    "img_path": "champion_icons/lulu.png"
+  },
+  "Lux": {
+    "name": "Lux",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Lux",
+    "ultimate_identified": true,
+    "ultimate": "Final Spark",
+    "ultimate_cooldown": "60 / 50 / 40",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Lux_OriginalSquare.png/42px-Lux_OriginalSquare.png?285c1",
+    "img_path": "champion_icons/lux.png"
+  },
+  "Malphite": {
+    "name": "Malphite",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Malphite",
+    "ultimate_identified": true,
+    "ultimate": "Unstoppable Force",
+    "ultimate_cooldown": "130 / 115 / 100",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Malphite_OriginalSquare.png/42px-Malphite_OriginalSquare.png?e38f9",
+    "img_path": "champion_icons/malphite.png"
+  },
+  "Malzahar": {
+    "name": "Malzahar",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Malzahar",
+    "ultimate_identified": true,
+    "ultimate": "Nether Grasp",
+    "ultimate_cooldown": "140 / 110 / 80",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Malzahar_OriginalSquare.png/42px-Malzahar_OriginalSquare.png?0d05f",
+    "img_path": "champion_icons/malzahar.png"
+  },
+  "Maokai": {
+    "name": "Maokai",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Maokai",
+    "ultimate_identified": true,
+    "ultimate": "Nature's Grasp",
+    "ultimate_cooldown": "130 / 110 / 90",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Maokai_OriginalSquare.png/42px-Maokai_OriginalSquare.png?5d15e",
+    "img_path": "champion_icons/maokai.png"
+  },
+  "Master Yi": {
+    "name": "Master Yi",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Master_Yi",
+    "ultimate_identified": true,
+    "ultimate": "Highlander",
+    "ultimate_cooldown": "85",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Master_Yi_OriginalSquare.png/42px-Master_Yi_OriginalSquare.png?3d56a",
+    "img_path": "champion_icons/master_yi.png"
+  },
+  "Mel": {
+    "name": "Mel",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Mel",
+    "ultimate_identified": true,
+    "ultimate": "Golden Eclipse",
+    "ultimate_cooldown": "120 / 100 / 80",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Mel_OriginalSquare.png/42px-Mel_OriginalSquare.png?dbac6",
+    "img_path": "champion_icons/mel.png"
+  },
+  "Milio": {
+    "name": "Milio",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Milio",
+    "ultimate_identified": true,
+    "ultimate": "Breath of Life",
+    "ultimate_cooldown": "160 / 145 / 130",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Milio_OriginalSquare.png/42px-Milio_OriginalSquare.png?b81c0",
+    "img_path": "champion_icons/milio.png"
+  },
+  "Miss Fortune": {
+    "name": "Miss Fortune",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Miss_Fortune",
+    "ultimate_identified": true,
+    "ultimate": "Bullet Time",
+    "ultimate_cooldown": "120 / 110 / 100",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Miss_Fortune_OriginalSquare.png/42px-Miss_Fortune_OriginalSquare.png?47a40",
+    "img_path": "champion_icons/miss_fortune.png"
+  },
+  "Mordekaiser": {
+    "name": "Mordekaiser",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Mordekaiser",
+    "ultimate_identified": true,
+    "ultimate": "Realm of Death",
+    "ultimate_cooldown": "140 / 120 / 100",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Mordekaiser_OriginalSquare.png/42px-Mordekaiser_OriginalSquare.png?76c25",
+    "img_path": "champion_icons/mordekaiser.png"
+  },
+  "Morgana": {
+    "name": "Morgana",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Morgana",
+    "ultimate_identified": true,
+    "ultimate": "Soul Shackles",
+    "ultimate_cooldown": "120 / 110 / 100",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Morgana_OriginalSquare.png/42px-Morgana_OriginalSquare.png?03afb",
+    "img_path": "champion_icons/morgana.png"
+  },
+  "Naafiri": {
+    "name": "Naafiri",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Naafiri",
+    "ultimate_identified": true,
+    "ultimate": "Hounds' Pursuit",
+    "ultimate_cooldown": "110 / 95 / 80",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Naafiri_OriginalSquare.png/42px-Naafiri_OriginalSquare.png?ccf30",
+    "img_path": "champion_icons/naafiri.png"
+  },
+  "Nami": {
+    "name": "Nami",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Nami",
+    "ultimate_identified": true,
+    "ultimate": "Tidal Wave",
+    "ultimate_cooldown": "120 / 110 / 100",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Nami_OriginalSquare.png/42px-Nami_OriginalSquare.png?b8c44",
+    "img_path": "champion_icons/nami.png"
+  },
+  "Nasus": {
+    "name": "Nasus",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Nasus",
+    "ultimate_identified": true,
+    "ultimate": "Fury of the Sands",
+    "ultimate_cooldown": "120 / 100 / 80",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Nasus_OriginalSquare.png/42px-Nasus_OriginalSquare.png?9a2f8",
+    "img_path": "champion_icons/nasus.png"
+  },
+  "Nautilus": {
+    "name": "Nautilus",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Nautilus",
+    "ultimate_identified": true,
+    "ultimate": "Depth Charge",
+    "ultimate_cooldown": "120 / 100 / 80",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Nautilus_OriginalSquare.png/42px-Nautilus_OriginalSquare.png?8b72f",
+    "img_path": "champion_icons/nautilus.png"
+  },
+  "Neeko": {
+    "name": "Neeko",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Neeko",
+    "ultimate_identified": true,
+    "ultimate": "Pop Blossom",
+    "ultimate_cooldown": "120 / 105 / 90",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Neeko_OriginalSquare.png/42px-Neeko_OriginalSquare.png?7667b",
+    "img_path": "champion_icons/neeko.png"
+  },
+  "Nidalee": {
+    "name": "Nidalee",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Nidalee",
+    "ultimate_identified": true,
+    "ultimate": "Aspect of the Cougar",
+    "ultimate_cooldown": "3",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Nidalee_OriginalSquare.png/42px-Nidalee_OriginalSquare.png?c6101",
+    "img_path": "champion_icons/nidalee.png"
+  },
+  "Nilah": {
+    "name": "Nilah",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Nilah",
+    "ultimate_identified": true,
+    "ultimate": "Apotheosis",
+    "ultimate_cooldown": "110 / 95 / 80",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Nilah_OriginalSquare.png/42px-Nilah_OriginalSquare.png?573d3",
+    "img_path": "champion_icons/nilah.png"
+  },
+  "Nocturne": {
+    "name": "Nocturne",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Nocturne",
+    "ultimate_identified": true,
+    "ultimate": "Paranoia",
+    "ultimate_cooldown": "140 / 115 / 90",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Nocturne_OriginalSquare.png/42px-Nocturne_OriginalSquare.png?3ed03",
+    "img_path": "champion_icons/nocturne.png"
+  },
+  "Nunu": {
+    "name": "Nunu",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Nunu",
+    "ultimate_identified": true,
+    "ultimate": "Absolute Zero",
+    "ultimate_cooldown": "110 / 100 / 90",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Nunu_OriginalSquare.png/42px-Nunu_OriginalSquare.png?ef0fa",
+    "img_path": "champion_icons/nunu.png"
+  },
+  "Olaf": {
+    "name": "Olaf",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Olaf",
+    "ultimate_identified": true,
+    "ultimate": "Ragnarok",
+    "ultimate_cooldown": "100 / 90 / 80",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Olaf_OriginalSquare.png/42px-Olaf_OriginalSquare.png?4841d",
+    "img_path": "champion_icons/olaf.png"
+  },
+  "Orianna": {
+    "name": "Orianna",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Orianna",
+    "ultimate_identified": true,
+    "ultimate": "Command: Shockwave",
+    "ultimate_cooldown": "110 / 95 / 80",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Orianna_OriginalSquare.png/42px-Orianna_OriginalSquare.png?ea994",
+    "img_path": "champion_icons/orianna.png"
+  },
+  "Ornn": {
+    "name": "Ornn",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Ornn",
+    "ultimate_identified": true,
+    "ultimate": "Call of the Forge God",
+    "ultimate_cooldown": "140 / 120 / 100",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Ornn_OriginalSquare.png/42px-Ornn_OriginalSquare.png?ab1d6",
+    "img_path": "champion_icons/ornn.png"
+  },
+  "Pantheon": {
+    "name": "Pantheon",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Pantheon",
+    "ultimate_identified": true,
+    "ultimate": "Grand Starfall",
+    "ultimate_cooldown": "180 / 165 / 150",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Pantheon_OriginalSquare.png/42px-Pantheon_OriginalSquare.png?81183",
+    "img_path": "champion_icons/pantheon.png"
+  },
+  "Poppy": {
+    "name": "Poppy",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Poppy",
+    "ultimate_identified": true,
+    "ultimate": "Keeper's Verdict",
+    "ultimate_cooldown": "140 / 120 / 100",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Poppy_OriginalSquare.png/42px-Poppy_OriginalSquare.png?fde1f",
+    "img_path": "champion_icons/poppy.png"
+  },
+  "Pyke": {
+    "name": "Pyke",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Pyke",
+    "ultimate_identified": true,
+    "ultimate": "Death from Below",
+    "ultimate_cooldown": "100 / 85 / 70",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Pyke_OriginalSquare.png/42px-Pyke_OriginalSquare.png?071c0",
+    "img_path": "champion_icons/pyke.png"
+  },
+  "Qiyana": {
+    "name": "Qiyana",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Qiyana",
+    "ultimate_identified": true,
+    "ultimate": "Supreme Display of Talent",
+    "ultimate_cooldown": "120",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Qiyana_OriginalSquare.png/42px-Qiyana_OriginalSquare.png?f2220",
+    "img_path": "champion_icons/qiyana.png"
+  },
+  "Quinn": {
+    "name": "Quinn",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Quinn",
+    "ultimate_identified": true,
+    "ultimate": "Behind Enemy Lines",
+    "ultimate_cooldown": "3",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Quinn_OriginalSquare.png/42px-Quinn_OriginalSquare.png?098bd",
+    "img_path": "champion_icons/quinn.png"
+  },
+  "Rakan": {
+    "name": "Rakan",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Rakan",
+    "ultimate_identified": true,
+    "ultimate": "The Quickness",
+    "ultimate_cooldown": "130 / 110 / 90",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Rakan_OriginalSquare.png/42px-Rakan_OriginalSquare.png?5747a",
+    "img_path": "champion_icons/rakan.png"
+  },
+  "Rammus": {
+    "name": "Rammus",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Rammus",
+    "ultimate_identified": true,
+    "ultimate": "Soaring Slam",
+    "ultimate_cooldown": "120 / 105 / 90",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Rammus_OriginalSquare.png/42px-Rammus_OriginalSquare.png?3fbfd",
+    "img_path": "champion_icons/rammus.png"
+  },
+  "Rek'Sai": {
+    "name": "Rek'Sai",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Rek%27Sai",
+    "ultimate_identified": true,
+    "ultimate": "Void Rush",
+    "ultimate_cooldown": "120 / 100 / 80",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Rek%27Sai_OriginalSquare.png/42px-Rek%27Sai_OriginalSquare.png?c597d",
+    "img_path": "champion_icons/rek_sai.png"
+  },
+  "Rell": {
+    "name": "Rell",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Rell",
+    "ultimate_identified": true,
+    "ultimate": "Magnet Storm",
+    "ultimate_cooldown": "120 / 100 / 80",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Rell_OriginalSquare.png/42px-Rell_OriginalSquare.png?d80b8",
+    "img_path": "champion_icons/rell.png"
+  },
+  "Renata Glasc": {
+    "name": "Renata Glasc",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Renata_Glasc",
+    "ultimate_identified": true,
+    "ultimate": "Hostile Takeover",
+    "ultimate_cooldown": "150 / 130 / 110",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Renata_Glasc_OriginalSquare.png/42px-Renata_Glasc_OriginalSquare.png?1300f",
+    "img_path": "champion_icons/renata_glasc.png"
+  },
+  "Renekton": {
+    "name": "Renekton",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Renekton",
+    "ultimate_identified": true,
+    "ultimate": "Dominus",
+    "ultimate_cooldown": "120 / 100 / 80",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Renekton_OriginalSquare.png/42px-Renekton_OriginalSquare.png?0f653",
+    "img_path": "champion_icons/renekton.png"
+  },
+  "Rengar": {
+    "name": "Rengar",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Rengar",
+    "ultimate_identified": true,
+    "ultimate": "Thrill of the Hunt",
+    "ultimate_cooldown": "100 / 90 / 80",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Rengar_OriginalSquare.png/42px-Rengar_OriginalSquare.png?53142",
+    "img_path": "champion_icons/rengar.png"
+  },
+  "Riven": {
+    "name": "Riven",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Riven",
+    "ultimate_identified": true,
+    "ultimate": "Blade of the Exile",
+    "ultimate_cooldown": "120 / 90 / 60",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Riven_OriginalSquare.png/42px-Riven_OriginalSquare.png?6e136",
+    "img_path": "champion_icons/riven.png"
+  },
+  "Rumble": {
+    "name": "Rumble",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Rumble",
+    "ultimate_identified": true,
+    "ultimate": "The Equalizer",
+    "ultimate_cooldown": "130 / 105 / 80",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Rumble_OriginalSquare.png/42px-Rumble_OriginalSquare.png?26721",
+    "img_path": "champion_icons/rumble.png"
+  },
+  "Ryze": {
+    "name": "Ryze",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Ryze",
+    "ultimate_identified": true,
+    "ultimate": "Realm Warp",
+    "ultimate_cooldown": "180 / 160 / 140",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Ryze_OriginalSquare.png/42px-Ryze_OriginalSquare.png?716a1",
+    "img_path": "champion_icons/ryze.png"
+  },
+  "Samira": {
+    "name": "Samira",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Samira",
+    "ultimate_identified": true,
+    "ultimate": "Inferno Trigger",
+    "ultimate_cooldown": "5",
+    "cooldown_label": "STATIC COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Samira_OriginalSquare.png/42px-Samira_OriginalSquare.png?b57dc",
+    "img_path": "champion_icons/samira.png"
+  },
+  "Sejuani": {
+    "name": "Sejuani",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Sejuani",
+    "ultimate_identified": true,
+    "ultimate": "Glacial Prison",
+    "ultimate_cooldown": "120 / 105 / 90",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Sejuani_OriginalSquare.png/42px-Sejuani_OriginalSquare.png?d585c",
+    "img_path": "champion_icons/sejuani.png"
+  },
+  "Senna": {
+    "name": "Senna",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Senna",
+    "ultimate_identified": true,
+    "ultimate": "Dawning Shadow",
+    "ultimate_cooldown": "140 / 120 / 100",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Senna_OriginalSquare.png/42px-Senna_OriginalSquare.png?98201",
+    "img_path": "champion_icons/senna.png"
+  },
+  "Seraphine": {
+    "name": "Seraphine",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Seraphine",
+    "ultimate_identified": true,
+    "ultimate": "Encore",
+    "ultimate_cooldown": "160 / 140 / 120",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Seraphine_OriginalSquare.png/42px-Seraphine_OriginalSquare.png?a7e01",
+    "img_path": "champion_icons/seraphine.png"
+  },
+  "Sett": {
+    "name": "Sett",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Sett",
+    "ultimate_identified": true,
+    "ultimate": "The Show Stopper",
+    "ultimate_cooldown": "120 / 100 / 80",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Sett_OriginalSquare.png/42px-Sett_OriginalSquare.png?a9ec3",
+    "img_path": "champion_icons/sett.png"
+  },
+  "Shaco": {
+    "name": "Shaco",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Shaco",
+    "ultimate_identified": true,
+    "ultimate": "Hallucinate",
+    "ultimate_cooldown": "100 / 90 / 80",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Shaco_OriginalSquare.png/42px-Shaco_OriginalSquare.png?dd925",
+    "img_path": "champion_icons/shaco.png"
+  },
+  "Shen": {
+    "name": "Shen",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Shen",
+    "ultimate_identified": true,
+    "ultimate": "Stand United",
+    "ultimate_cooldown": "200 / 180 / 160",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Shen_OriginalSquare.png/42px-Shen_OriginalSquare.png?7795f",
+    "img_path": "champion_icons/shen.png"
+  },
+  "Shyvana": {
+    "name": "Shyvana",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Shyvana",
+    "ultimate_identified": true,
+    "ultimate": "Dragon's Descent",
+    "ultimate_cooldown": null,
+    "cooldown_label": null,
+    "error": "Could not find a direct cooldown stat in the skill_r block.",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Shyvana_OriginalSquare.png/42px-Shyvana_OriginalSquare.png?95332",
+    "img_path": "champion_icons/shyvana.png"
+  },
+  "Singed": {
+    "name": "Singed",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Singed",
+    "ultimate_identified": true,
+    "ultimate": "Insanity Potion",
+    "ultimate_cooldown": "100",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Singed_OriginalSquare.png/42px-Singed_OriginalSquare.png?e9e6e",
+    "img_path": "champion_icons/singed.png"
+  },
+  "Sion": {
+    "name": "Sion",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Sion",
+    "ultimate_identified": true,
+    "ultimate": "Unstoppable Onslaught",
+    "ultimate_cooldown": "140 / 100 / 60",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Sion_OriginalSquare.png/42px-Sion_OriginalSquare.png?33ac7",
+    "img_path": "champion_icons/sion.png"
+  },
+  "Sivir": {
+    "name": "Sivir",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Sivir",
+    "ultimate_identified": true,
+    "ultimate": "On the Hunt",
+    "ultimate_cooldown": "120 / 100 / 80",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Sivir_OriginalSquare.png/42px-Sivir_OriginalSquare.png?2852b",
+    "img_path": "champion_icons/sivir.png"
+  },
+  "Skarner": {
+    "name": "Skarner",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Skarner",
+    "ultimate_identified": true,
+    "ultimate": "Impale",
+    "ultimate_cooldown": "120 / 105 / 90",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Skarner_OriginalSquare.png/42px-Skarner_OriginalSquare.png?76e44",
+    "img_path": "champion_icons/skarner.png"
+  },
+  "Smolder": {
+    "name": "Smolder",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Smolder",
+    "ultimate_identified": true,
+    "ultimate": "MMOOOMMMM!",
+    "ultimate_cooldown": "120 / 110 / 100",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Smolder_OriginalSquare.png/42px-Smolder_OriginalSquare.png?d6866",
+    "img_path": "champion_icons/smolder.png"
+  },
+  "Sona": {
+    "name": "Sona",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Sona",
+    "ultimate_identified": true,
+    "ultimate": "Crescendo",
+    "ultimate_cooldown": "140 / 120 / 100",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Sona_OriginalSquare.png/42px-Sona_OriginalSquare.png?72d48",
+    "img_path": "champion_icons/sona.png"
+  },
+  "Soraka": {
+    "name": "Soraka",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Soraka",
+    "ultimate_identified": true,
+    "ultimate": "Wish",
+    "ultimate_cooldown": "150 / 135 / 120",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Soraka_OriginalSquare.png/42px-Soraka_OriginalSquare.png?0c2df",
+    "img_path": "champion_icons/soraka.png"
+  },
+  "Swain": {
+    "name": "Swain",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Swain",
+    "ultimate_identified": true,
+    "ultimate": "Demonic Ascension",
+    "ultimate_cooldown": "120",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Swain_OriginalSquare.png/42px-Swain_OriginalSquare.png?b7cdb",
+    "img_path": "champion_icons/swain.png"
+  },
+  "Sylas": {
+    "name": "Sylas",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Sylas",
+    "ultimate_identified": true,
+    "ultimate": "Hijack",
+    "ultimate_cooldown": "80 / 55 / 30",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Sylas_OriginalSquare.png/42px-Sylas_OriginalSquare.png?5939c",
+    "img_path": "champion_icons/sylas.png"
+  },
+  "Syndra": {
+    "name": "Syndra",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Syndra",
+    "ultimate_identified": true,
+    "ultimate": "Unleashed Power",
+    "ultimate_cooldown": "120 / 100 / 80",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Syndra_OriginalSquare.png/42px-Syndra_OriginalSquare.png?f6b95",
+    "img_path": "champion_icons/syndra.png"
+  },
+  "Tahm Kench": {
+    "name": "Tahm Kench",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Tahm_Kench",
+    "ultimate_identified": true,
+    "ultimate": "Devour",
+    "ultimate_cooldown": "120 / 100 / 80",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Tahm_Kench_OriginalSquare.png/42px-Tahm_Kench_OriginalSquare.png?c177a",
+    "img_path": "champion_icons/tahm_kench.png"
+  },
+  "Taliyah": {
+    "name": "Taliyah",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Taliyah",
+    "ultimate_identified": true,
+    "ultimate": "Weaver's Wall",
+    "ultimate_cooldown": "180 / 150 / 120",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Taliyah_OriginalSquare.png/42px-Taliyah_OriginalSquare.png?c757b",
+    "img_path": "champion_icons/taliyah.png"
+  },
+  "Talon": {
+    "name": "Talon",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Talon",
+    "ultimate_identified": true,
+    "ultimate": "Shadow Assault",
+    "ultimate_cooldown": "100 / 80 / 60",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Talon_OriginalSquare.png/42px-Talon_OriginalSquare.png?eb66c",
+    "img_path": "champion_icons/talon.png"
+  },
+  "Taric": {
+    "name": "Taric",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Taric",
+    "ultimate_identified": true,
+    "ultimate": "Cosmic Radiance",
+    "ultimate_cooldown": "180 / 150 / 120",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Taric_OriginalSquare.png/42px-Taric_OriginalSquare.png?df987",
+    "img_path": "champion_icons/taric.png"
+  },
+  "Teemo": {
+    "name": "Teemo",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Teemo",
+    "ultimate_identified": true,
+    "ultimate": "Noxious Trap",
+    "ultimate_cooldown": "0.25",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Teemo_OriginalSquare.png/42px-Teemo_OriginalSquare.png?783d6",
+    "img_path": "champion_icons/teemo.png"
+  },
+  "Thresh": {
+    "name": "Thresh",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Thresh",
+    "ultimate_identified": true,
+    "ultimate": "The Box",
+    "ultimate_cooldown": "120 / 100 / 80",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Thresh_OriginalSquare.png/42px-Thresh_OriginalSquare.png?9ef1d",
+    "img_path": "champion_icons/thresh.png"
+  },
+  "Tristana": {
+    "name": "Tristana",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Tristana",
+    "ultimate_identified": true,
+    "ultimate": "Buster Shot",
+    "ultimate_cooldown": "100",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Tristana_OriginalSquare.png/42px-Tristana_OriginalSquare.png?b2200",
+    "img_path": "champion_icons/tristana.png"
+  },
+  "Trundle": {
+    "name": "Trundle",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Trundle",
+    "ultimate_identified": true,
+    "ultimate": "Subjugate",
+    "ultimate_cooldown": "120 / 100 / 80",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Trundle_OriginalSquare.png/42px-Trundle_OriginalSquare.png?4bae6",
+    "img_path": "champion_icons/trundle.png"
+  },
+  "Tryndamere": {
+    "name": "Tryndamere",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Tryndamere",
+    "ultimate_identified": true,
+    "ultimate": "Undying Rage",
+    "ultimate_cooldown": "120 / 100 / 80",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Tryndamere_OriginalSquare.png/42px-Tryndamere_OriginalSquare.png?3eb36",
+    "img_path": "champion_icons/tryndamere.png"
+  },
+  "Twisted Fate": {
+    "name": "Twisted Fate",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Twisted_Fate",
+    "ultimate_identified": true,
+    "ultimate": "Destiny",
+    "ultimate_cooldown": "170 / 140 / 110",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Twisted_Fate_OriginalSquare.png/42px-Twisted_Fate_OriginalSquare.png?72748",
+    "img_path": "champion_icons/twisted_fate.png"
+  },
+  "Twitch": {
+    "name": "Twitch",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Twitch",
+    "ultimate_identified": true,
+    "ultimate": "Spray and Pray",
+    "ultimate_cooldown": "90",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Twitch_OriginalSquare.png/42px-Twitch_OriginalSquare.png?143e2",
+    "img_path": "champion_icons/twitch.png"
+  },
+  "Udyr": {
+    "name": "Udyr",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Udyr",
+    "ultimate_identified": true,
+    "ultimate": "Wingborne Storm",
+    "ultimate_cooldown": "6",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Udyr_OriginalSquare.png/42px-Udyr_OriginalSquare.png?fe8df",
+    "img_path": "champion_icons/udyr.png"
+  },
+  "Urgot": {
+    "name": "Urgot",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Urgot",
+    "ultimate_identified": true,
+    "ultimate": "Fear Beyond Death",
+    "ultimate_cooldown": "100 / 85 / 70",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Urgot_OriginalSquare.png/42px-Urgot_OriginalSquare.png?1c3ee",
+    "img_path": "champion_icons/urgot.png"
+  },
+  "Varus": {
+    "name": "Varus",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Varus",
+    "ultimate_identified": true,
+    "ultimate": "Chain of Corruption",
+    "ultimate_cooldown": "100 / 80 / 60",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Varus_OriginalSquare.png/42px-Varus_OriginalSquare.png?1f1e0",
+    "img_path": "champion_icons/varus.png"
+  },
+  "Vayne": {
+    "name": "Vayne",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Vayne",
+    "ultimate_identified": true,
+    "ultimate": "Final Hour",
+    "ultimate_cooldown": "100 / 85 / 70",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Vayne_OriginalSquare.png/42px-Vayne_OriginalSquare.png?78bd3",
+    "img_path": "champion_icons/vayne.png"
+  },
+  "Veigar": {
+    "name": "Veigar",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Veigar",
+    "ultimate_identified": true,
+    "ultimate": "Primordial Burst",
+    "ultimate_cooldown": "120 / 90 / 60",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Veigar_OriginalSquare.png/42px-Veigar_OriginalSquare.png?2add0",
+    "img_path": "champion_icons/veigar.png"
+  },
+  "Vel'Koz": {
+    "name": "Vel'Koz",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Vel%27Koz",
+    "ultimate_identified": true,
+    "ultimate": "Life Form Disintegration Ray",
+    "ultimate_cooldown": "100 / 90 / 80",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Vel%27Koz_OriginalSquare.png/42px-Vel%27Koz_OriginalSquare.png?0c64b",
+    "img_path": "champion_icons/vel_koz.png"
+  },
+  "Vex": {
+    "name": "Vex",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Vex",
+    "ultimate_identified": true,
+    "ultimate": "Shadow Surge",
+    "ultimate_cooldown": "140 / 120 / 100",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Vex_OriginalSquare.png/42px-Vex_OriginalSquare.png?f6345",
+    "img_path": "champion_icons/vex.png"
+  },
+  "Vi": {
+    "name": "Vi",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Vi",
+    "ultimate_identified": true,
+    "ultimate": "Cease and Desist",
+    "ultimate_cooldown": "140 / 115 / 90",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Vi_OriginalSquare.png/42px-Vi_OriginalSquare.png?78709",
+    "img_path": "champion_icons/vi.png"
+  },
+  "Viego": {
+    "name": "Viego",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Viego",
+    "ultimate_identified": true,
+    "ultimate": "Heartbreaker",
+    "ultimate_cooldown": "120 / 100 / 80",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Viego_OriginalSquare.png/42px-Viego_OriginalSquare.png?5f898",
+    "img_path": "champion_icons/viego.png"
+  },
+  "Viktor": {
+    "name": "Viktor",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Viktor",
+    "ultimate_identified": true,
+    "ultimate": "Arcane Storm",
+    "ultimate_cooldown": "120 / 100 / 80",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Viktor_OriginalSquare.png/42px-Viktor_OriginalSquare.png?84e3d",
+    "img_path": "champion_icons/viktor.png"
+  },
+  "Vladimir": {
+    "name": "Vladimir",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Vladimir",
+    "ultimate_identified": true,
+    "ultimate": "Hemoplague",
+    "ultimate_cooldown": "120",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Vladimir_OriginalSquare.png/42px-Vladimir_OriginalSquare.png?41820",
+    "img_path": "champion_icons/vladimir.png"
+  },
+  "Volibear": {
+    "name": "Volibear",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Volibear",
+    "ultimate_identified": true,
+    "ultimate": "Stormbringer",
+    "ultimate_cooldown": "160 / 135 / 110",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Volibear_OriginalSquare.png/42px-Volibear_OriginalSquare.png?b4f76",
+    "img_path": "champion_icons/volibear.png"
+  },
+  "Warwick": {
+    "name": "Warwick",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Warwick",
+    "ultimate_identified": true,
+    "ultimate": "Infinite Duress",
+    "ultimate_cooldown": "110 / 90 / 70",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Warwick_OriginalSquare.png/42px-Warwick_OriginalSquare.png?cc8c7",
+    "img_path": "champion_icons/warwick.png"
+  },
+  "Wukong": {
+    "name": "Wukong",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Wukong",
+    "ultimate_identified": true,
+    "ultimate": "Cyclone",
+    "ultimate_cooldown": "130 / 110 / 90",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Wukong_OriginalSquare.png/42px-Wukong_OriginalSquare.png?bac3b",
+    "img_path": "champion_icons/wukong.png"
+  },
+  "Xayah": {
+    "name": "Xayah",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Xayah",
+    "ultimate_identified": true,
+    "ultimate": "Featherstorm",
+    "ultimate_cooldown": "140 / 120 / 100",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Xayah_OriginalSquare.png/42px-Xayah_OriginalSquare.png?17473",
+    "img_path": "champion_icons/xayah.png"
+  },
+  "Xerath": {
+    "name": "Xerath",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Xerath",
+    "ultimate_identified": true,
+    "ultimate": "Rite of the Arcane",
+    "ultimate_cooldown": "130 / 115 / 100",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Xerath_OriginalSquare.png/42px-Xerath_OriginalSquare.png?ae665",
+    "img_path": "champion_icons/xerath.png"
+  },
+  "Xin Zhao": {
+    "name": "Xin Zhao",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Xin_Zhao",
+    "ultimate_identified": true,
+    "ultimate": "Crescent Guard",
+    "ultimate_cooldown": "120 / 110 / 100",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Xin_Zhao_OriginalSquare.png/42px-Xin_Zhao_OriginalSquare.png?c48eb",
+    "img_path": "champion_icons/xin_zhao.png"
+  },
+  "Yasuo": {
+    "name": "Yasuo",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Yasuo",
+    "ultimate_identified": true,
+    "ultimate": "Last Breath",
+    "ultimate_cooldown": "70 / 50 / 30",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Yasuo_OriginalSquare.png/42px-Yasuo_OriginalSquare.png?efb3b",
+    "img_path": "champion_icons/yasuo.png"
+  },
+  "Yone": {
+    "name": "Yone",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Yone",
+    "ultimate_identified": true,
+    "ultimate": "Fate Sealed",
+    "ultimate_cooldown": "120 / 100 / 80",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Yone_OriginalSquare.png/42px-Yone_OriginalSquare.png?4b7e6",
+    "img_path": "champion_icons/yone.png"
+  },
+  "Yorick": {
+    "name": "Yorick",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Yorick",
+    "ultimate_identified": true,
+    "ultimate": "Eulogy of the Isles",
+    "ultimate_cooldown": "160 / 130 / 100",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Yorick_OriginalSquare.png/42px-Yorick_OriginalSquare.png?13f0f",
+    "img_path": "champion_icons/yorick.png"
+  },
+  "Yunara": {
+    "name": "Yunara",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Yunara",
+    "ultimate_identified": true,
+    "ultimate": "Transcend One's Self",
+    "ultimate_cooldown": "100 / 90 / 80",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Yunara_OriginalSquare.png/42px-Yunara_OriginalSquare.png?7b5b6",
+    "img_path": "champion_icons/yunara.png"
+  },
+  "Yuumi": {
+    "name": "Yuumi",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Yuumi",
+    "ultimate_identified": true,
+    "ultimate": "Final Chapter",
+    "ultimate_cooldown": "120 / 110 / 100",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Yuumi_OriginalSquare.png/42px-Yuumi_OriginalSquare.png?c851e",
+    "img_path": "champion_icons/yuumi.png"
+  },
+  "Zaahen": {
+    "name": "Zaahen",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Zaahen",
+    "ultimate_identified": true,
+    "ultimate": "Grim Deliverance",
+    "ultimate_cooldown": "110 / 95 / 80",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Zaahen_OriginalSquare.png/42px-Zaahen_OriginalSquare.png?aabf2",
+    "img_path": "champion_icons/zaahen.png"
+  },
+  "Zac": {
+    "name": "Zac",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Zac",
+    "ultimate_identified": true,
+    "ultimate": "Let's Bounce!",
+    "ultimate_cooldown": "120 / 105 / 90",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Zac_OriginalSquare.png/42px-Zac_OriginalSquare.png?01e68",
+    "img_path": "champion_icons/zac.png"
+  },
+  "Zed": {
+    "name": "Zed",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Zed",
+    "ultimate_identified": true,
+    "ultimate": "Death Mark",
+    "ultimate_cooldown": "120 / 110 / 100",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Zed_OriginalSquare.png/42px-Zed_OriginalSquare.png?b08cd",
+    "img_path": "champion_icons/zed.png"
+  },
+  "Zeri": {
+    "name": "Zeri",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Zeri",
+    "ultimate_identified": true,
+    "ultimate": "Lightning Crash",
+    "ultimate_cooldown": "80 / 75 / 70",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Zeri_OriginalSquare.png/42px-Zeri_OriginalSquare.png?3b11a",
+    "img_path": "champion_icons/zeri.png"
+  },
+  "Ziggs": {
+    "name": "Ziggs",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Ziggs",
+    "ultimate_identified": true,
+    "ultimate": "Mega Inferno Bomb",
+    "ultimate_cooldown": "120 / 95 / 70",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Ziggs_OriginalSquare.png/42px-Ziggs_OriginalSquare.png?d44a6",
+    "img_path": "champion_icons/ziggs.png"
+  },
+  "Zilean": {
+    "name": "Zilean",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Zilean",
+    "ultimate_identified": true,
+    "ultimate": "Chronoshift",
+    "ultimate_cooldown": "120 / 90 / 60",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Zilean_OriginalSquare.png/42px-Zilean_OriginalSquare.png?f0cc9",
+    "img_path": "champion_icons/zilean.png"
+  },
+  "Zoe": {
+    "name": "Zoe",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Zoe",
+    "ultimate_identified": true,
+    "ultimate": "Portal Jump",
+    "ultimate_cooldown": "11 / 8 / 5",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Zoe_OriginalSquare.png/42px-Zoe_OriginalSquare.png?c2d6a",
+    "img_path": "champion_icons/zoe.png"
+  },
+  "Zyra": {
+    "name": "Zyra",
+    "page_url": "https://wiki.leagueoflegends.com/en-us/Zyra",
+    "ultimate_identified": true,
+    "ultimate": "Stranglethorns",
+    "ultimate_cooldown": "110 / 100 / 90",
+    "cooldown_label": "COOLDOWN",
+    "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Zyra_OriginalSquare.png/42px-Zyra_OriginalSquare.png?e97f0",
+    "img_path": "champion_icons/zyra.png"
+  }
+}
