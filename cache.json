@@ -1,11 +1,17 @@
 {
-  "selected_champions": [],
-  "ability_haste::Akshan": 0.0,
-  "ability_haste::Aatrox": 0.0,
-  "rank::Ahri": "All",
-  "rank::Akali": "1",
+  "selected_champions": [
+    "Aatrox",
+    "Ahri",
+    "Akali"
+  ],
+  "timer_start::Aatrox": 1777324149.189481,
   "ability_haste::Akali": 0.0,
+  "rank::Ahri": "1",
+  "ability_haste::Ahri": 0.0,
+  "timer_cd::Aatrox": 80.0,
+  "ability_haste::Akshan": 0.0,
+  "rank::Aatrox": "2",
   "rank::Akshan": "1",
-  "rank::Aatrox": "1",
-  "ability_haste::Ahri": 20.0
+  "rank::Akali": "1",
+  "ability_haste::Aatrox": 25.0
 }

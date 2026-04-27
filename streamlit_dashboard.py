@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import json
 import re
+import time
 from pathlib import Path
 from typing import Any
 
@@ -12,6 +13,8 @@ APP_DIR = Path(__file__).parent
 DATA_PATH = APP_DIR / "champion_ultimate_cooldowns.json"
 CACHE_PATH = APP_DIR / "cache.json"
 RANK_OPTIONS = ["1", "2", "3", "All"]
+
+CACHE_KEY_PREFIXES = ("ability_haste::", "rank::", "timer_start::", "timer_cd::")
 
 
 st.set_page_config(
@@ -41,6 +44,14 @@ def format_seconds(value: float | None) -> str:
     return f"{rounded:.1f}s"
 
 
+def format_countdown(seconds: float) -> str:
+    if seconds <= 0:
+        return "Ready!"
+    total = int(seconds)
+    m, s = divmod(total, 60)
+    return f"{m}:{s:02d}" if m else f"{s}s"
+
+
 def load_cache() -> dict:
     if CACHE_PATH.exists():
         try:
@@ -60,6 +71,14 @@ def ah_key(name: str) -> str:
 
 def rk_key(name: str) -> str:
     return f"rank::{name}"
+
+
+def timer_start_key(name: str) -> str:
+    return f"timer_start::{name}"
+
+
+def timer_cd_key(name: str) -> str:
+    return f"timer_cd::{name}"
 
 
 @st.cache_data(show_spinner=False)
@@ -98,9 +117,29 @@ def cooldown_rows(champion: dict[str, Any], ability_haste: float, rank_choice: s
     return rows
 
 
+def current_adjusted_cd(champion: dict[str, Any], name: str) -> float | None:
+    if not champion["cooldowns"]:
+        return None
+    current_rank = st.session_state.get(rk_key(name), "3")
+    current_ah = st.session_state.get(ah_key(name), 0.0)
+    idx = (
+        len(champion["cooldowns"]) - 1
+        if current_rank == "All"
+        else min(int(current_rank) - 1, len(champion["cooldowns"]) - 1)
+    )
+    return adjusted_cooldown(champion["cooldowns"][idx], current_ah)
+
+
 def render_card(champion: dict[str, Any]) -> None:
     name = champion["name"]
     image_path = APP_DIR / str(champion.get("img_path", ""))
+
+    t_start: float | None = st.session_state.get(timer_start_key(name))
+    t_cd: float = st.session_state.get(timer_cd_key(name), 0.0)
+    now = time.time()
+    remaining: float | None = None
+    if t_start is not None:
+        remaining = max(0.0, t_cd - (now - t_start))
 
     with st.container(border=True):
         image_col, body_col = st.columns([0.25, 0.75], vertical_alignment="top")
@@ -110,21 +149,31 @@ def render_card(champion: dict[str, Any]) -> None:
         with body_col:
             st.subheader(name)
             st.caption(champion.get("ultimate") or "Unknown ultimate")
-            if champion["cooldowns"]:
-                current_ah = st.session_state.get(ah_key(name), 0.0)
-                current_rank = st.session_state.get(rk_key(name), "3")
-                display_index = (
-                    len(champion["cooldowns"]) - 1
-                    if current_rank == "All"
-                    else min(int(current_rank) - 1, len(champion["cooldowns"]) - 1)
-                )
-                base = champion["cooldowns"][display_index]
-                st.metric("Adjusted CD", format_seconds(adjusted_cooldown(base, current_ah)))
+            adj = current_adjusted_cd(champion, name)
+            st.metric("Adjusted CD", format_seconds(adj) if adj is not None else "—")
+            if remaining is None:
+                st.metric("Countdown", "—")
+            elif remaining == 0.0:
+                st.metric("Countdown", "Ready! ✅")
+            else:
+                st.metric("Countdown", format_countdown(remaining))
 
         st.number_input("Ability haste", min_value=0.0, step=5.0, key=ah_key(name))
         st.radio("Rank", RANK_OPTIONS, horizontal=True, key=rk_key(name))
 
-        rows = cooldown_rows(champion, st.session_state[ah_key(name)], st.session_state[rk_key(name)])
+        timer_running = t_start is not None and remaining is not None and remaining > 0
+        if timer_running:
+            if st.button("↺ Reset", key=f"reset::{name}", use_container_width=True):
+                del st.session_state[timer_start_key(name)]
+                st.session_state.pop(timer_cd_key(name), None)
+        else:
+            if st.button("▶ Start", key=f"start::{name}", use_container_width=True):
+                cd_val = current_adjusted_cd(champion, name)
+                if cd_val is not None:
+                    st.session_state[timer_start_key(name)] = time.time()
+                    st.session_state[timer_cd_key(name)] = cd_val
+
+        rows = cooldown_rows(champion, st.session_state.get(ah_key(name), 0.0), st.session_state.get(rk_key(name), "3"))
         if rows:
             st.dataframe(rows, hide_index=True, use_container_width=True)
         else:
@@ -152,9 +201,17 @@ with st.sidebar:
         min_value=0.0,
         value=0.0,
         step=5.0,
-        help="Used when a champion does not already have its own ability haste value.",
     )
     default_rank = st.radio("Default rank", RANK_OPTIONS, horizontal=True)
+    auto_refresh = st.toggle("Auto-refresh", key="auto_refresh", value=False)
+    refresh_interval = st.number_input(
+        "Refresh interval (s)",
+        min_value=1,
+        max_value=300,
+        value=10,
+        step=1,
+        disabled=not auto_refresh,
+    )
 
     action_col_1, action_col_2 = st.columns(2)
     with action_col_1:
@@ -203,9 +260,14 @@ else:
             with column:
                 render_card(champion)
 
-# ── Shutdown: persist state to cache file ─────────────────────────────────────
+# ── Persist state to cache file (shared across users via file) ────────────────
 cache_out: dict = {"selected_champions": list(st.session_state.get("selected_champions", []))}
 for _k, _v in st.session_state.items():
-    if isinstance(_k, str) and _k.startswith(("ability_haste::", "rank::")):
+    if isinstance(_k, str) and _k.startswith(CACHE_KEY_PREFIXES):
         cache_out[_k] = _v
 save_cache(cache_out)
+
+# ── Auto-refresh: sleep then rerun; any user interaction aborts the sleep ─────
+if auto_refresh:
+    time.sleep(refresh_interval)
+    st.rerun()
